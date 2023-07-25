@@ -1,4 +1,4 @@
-# dealers
+# Dealers
 
 Currently, I don't have an international distributor.   
 If you are interested in my modules, please contact me.
