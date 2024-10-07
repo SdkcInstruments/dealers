@@ -13,8 +13,8 @@
 
 <a href ="https://www.implant4.com/">implant4</a>
 
-## US
+## America
 <a href = "https://www.perfectcircuit.com/sdkc-instruments">Perfect Circuit</a>
 
-## EU
+## Europe
 <a href = "https://soundofyou.eu/sdkc-instruments">SOUND OF YOU EU</a>
