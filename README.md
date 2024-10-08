@@ -27,4 +27,4 @@
 <a href = "https://www.signalsounds.com/">Signal Sounds</a>
 
 #### Oslo, NO
-<a href = "https://synthshop.no/products/forhandsbestilling-sdkc-helical-autoregressive-algorithmic-synthesizer?_pos=1&_sid=e75dbc9e5&_ss=r">Signal Sounds</a>
+<a href = "https://synthshop.no/products/forhandsbestilling-sdkc-helical-autoregressive-algorithmic-synthesizer?_pos=1&_sid=e75dbc9e5&_ss=r">Synthshop.no</a>
