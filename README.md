@@ -10,7 +10,7 @@
 
 <a href ="https://shop.miyaji.co.jp/SHOP/list.php?Search=Sdkc+Instruments">宮地楽器RPM</a>
 
-<a href ="https://mod.shopselect.net/search?q=Sdkc+Instruments">宮地楽器RPM</a>
+<a href ="https://mod.shopselect.net/search?q=Sdkc+Instruments">Mod</a>
 
 #### Osaka, Japan
 <a href = "https://www.shimamura.co.jp/shop/umeda/" >島村楽器 梅田LOFT店</a>
