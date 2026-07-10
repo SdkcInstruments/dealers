@@ -10,6 +10,8 @@
 
 <a href ="https://shop.miyaji.co.jp/SHOP/list.php?Search=Sdkc+Instruments">宮地楽器RPM</a>
 
+<a href ="https://www.echigoyamusic.com/view/search?search_keyword=Sdkc+Instruments&search_name=&search_price_low=&search_price_high=&search_category=&search_original_code=">えちごやMUSIC</a>
+
 <a href ="https://mod.shopselect.net/search?q=Sdkc+Instruments">Mod</a>
 
 #### Osaka, Japan
